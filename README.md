@@ -19,4 +19,4 @@ I was born in 97 and right now I'm living in Cádiz, Spain.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adriansoriagarcia&layout=compact)
 ## Look at me! 👀
-<a href="https://adriansoriagarcia.github.io/" target="_blank"></a>   <a href="https://www.linkedin.com/in/adrián-soria-garcía-11a37a229" target="_blank"><img src="https://img.shields.io/badge/adriansoria97%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<a href="https://adriansoriagarcia.github.io/" target="_blank"><img src="https://img.shields.io/badge/https://adriansoriagarcia.github.io/-https://adriansoriagarcia.github.io/-white"></a>   <a href="https://www.linkedin.com/in/adrián-soria-garcía-11a37a229" target="_blank"><img src="https://img.shields.io/badge/adriansoria97%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
