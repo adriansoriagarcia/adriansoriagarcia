@@ -5,7 +5,7 @@ I was born in 97 and right now I'm living in Cádiz, Spain.
 ## Official Education 👨🏻‍🎓
 2016-2018 | C.F.G.M. Sistemas Microinformáticos y Redes. IES Los Remedios, Ubrique
 
-2020-2023 | C.F.G.S. Desarrollo de Aplicaciones Web. IES Los Remedios, Ubrique
+2021-2023 | C.F.G.S. Desarrollo de Aplicaciones Web. IES Los Remedios, Ubrique
 ## Work Experience 💼
 
 ## Languages and Technologies 👨🏻‍💻
@@ -19,4 +19,4 @@ I was born in 97 and right now I'm living in Cádiz, Spain.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adriansoriagarcia&layout=compact)
 ## Look at me! 👀
-<a href="https://adriansoriagarcia.github.io/" target="_blank"><img src="https://img.shields.io/badge/https://adriansoriagarcia.github.io/-https://adriansoriagarcia.github.io/-white"></a>  <a href="https://www.instagram.com/adriansoria97" target="_blank"><img src="https://img.shields.io/badge/adriansoria97%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>  <a href="https://www.twitch.tv/" target="_blank"><img src="https://img.shields.io/badge/adriansoria97%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a> <a href="https://www.twitter.com/" target="_blank"><img src="https://img.shields.io/badge/adriansoria97%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>  <a href="https://www.youtube.com/channel/" target="_blank"><img src="https://img.shields.io/badge/adriansoria97%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a>  <a href="https://www.linkedin.com/in/adrián-soria-garcía-11a37a229" target="_blank"><img src="https://img.shields.io/badge/adriansoria97%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>  <a href="https://stackoverflow.com/" target="_blank"><img src="https://img.shields.io/badge/-adriansoria97-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+<a href="https://adriansoriagarcia.github.io/" target="_blank"></a>   <a href="https://www.linkedin.com/in/adrián-soria-garcía-11a37a229" target="_blank"><img src="https://img.shields.io/badge/adriansoria97%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
