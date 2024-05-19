@@ -17,6 +17,9 @@ Nov 2023 - act | Frontend developer in Hillogy.
 2021: ![](https://img.shields.io/badge/Openwebinars%20-Curso%20de%20Javascript%20para%20principiantes%20-cyan) ![](https://img.shields.io/badge/Openwebinars%20-Curso%20de%20Javascript%20intermedio%20-cyan) ![](https://img.shields.io/badge/Openwebinars%20-Taller%20de%20uso%20de%20Git%20en%20Android%20Studio%20-cyan)
 
 2023: ![](https://img.shields.io/badge/Pluralsight%20-RxJS%20and%20Angular%20Signals%20Fundamentals%20-green)
+
+2024: ![](https://img.shields.io/badge/Pluralsight%20-Angular%20Unit%20Testing%20-yellow) ![](https://img.shields.io/badge/Pluralsight%20-User%20Experience%20Design%20Fundamentals%20-yellow)
+
 ## Statistics 🧐
 ![](https://github-readme-stats.vercel.app/api?username=adriansoriagarcia )
 
