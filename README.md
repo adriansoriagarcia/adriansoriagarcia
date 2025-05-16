@@ -26,17 +26,17 @@
 
 ## 📚 Unofficial Education
 
-**2020**  
-- 🛡️ Comunix — *Iniciación al hacking ético*  
-- 🛡️ Udemy — *Hacking corporativo*
+### **2020**  
+🛡️ Comunix — Iniciación al hacking ético  
+🛡️ Udemy — Hacking corporativo
 
-**2021**  
-- 🧠 OpenWebinars — *JavaScript para principiantes*  
-- 🧠 OpenWebinars — *JavaScript intermedio*  
-- 🧠 OpenWebinars — *Uso de Git en Android Studio*
+### **2021**  
+🧠 OpenWebinars — JavaScript para principiantes  
+🧠 OpenWebinars — JavaScript intermedio  
+🧠 OpenWebinars — Uso de Git en Android Studio
 
-**2023**  
-- 🎯 Pluralsight — *RxJS and Angular Signals Fundamentals*
+### **2023**  
+🎯 Pluralsight — RxJS and Angular Signals Fundamentals
 
 ### **2024**
 
