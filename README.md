@@ -38,9 +38,35 @@
 **2023**  
 - 🎯 Pluralsight — *RxJS and Angular Signals Fundamentals*
 
-**2024**  
-- 🧪 Pluralsight — *Angular Unit Testing*  
-- 🎨 Pluralsight — *User Experience Design Fundamentals*
+### **2024**
+
+- ![🧪 Angular Unit Testing](https://img.shields.io/badge/Pluralsight-Angular%20Unit%20Testing-red?logo=angular&logoColor=white)
+- ![🎨 User Experience Design Fundamentals](https://img.shields.io/badge/Pluralsight-User%20Experience%20Design%20Fundamentals-blue?logo=figma&logoColor=white)
+- ![🚀 Angular Fundamentals](https://img.shields.io/badge/Pluralsight-Angular%20Fundamentals-orange?logo=angular&logoColor=white)
+- ![🎨 Styling Angular Applications](https://img.shields.io/badge/Pluralsight-Styling%20Angular%20Applications-blueviolet?logo=css3&logoColor=white)
+- ![🧩 Angular Template-driven Forms](https://img.shields.io/badge/Pluralsight-Angular%20Template--driven%20Forms-ff69b4?logo=angular&logoColor=white)
+- ![🧪 Javascript Unit Testing with Jest](https://img.shields.io/badge/Pluralsight-JS%20Testing%20with%20Jest-yellow?logo=jest&logoColor=white)
+- ![🧭 Angular Routing and Navigation](https://img.shields.io/badge/Pluralsight-Angular%20Routing%20Playbook-brightgreen?logo=angular&logoColor=white)
+- ![⚙️ Angular Services](https://img.shields.io/badge/Pluralsight-Angular%20Services-9cf?logo=angular&logoColor=white)
+- ![🌐 Angular HTTP Playbook](https://img.shields.io/badge/Pluralsight-Angular%20HTTP%20Playbook-blue?logo=angular&logoColor=white)
+- ![🔐 Secure Coding in Angular](https://img.shields.io/badge/Pluralsight-Secure%20Coding%20in%20Angular-darkred?logo=angular&logoColor=white)
+- ![♿ Accessibility in Angular](https://img.shields.io/badge/Pluralsight-Accessibility%20in%20Angular-ffb300?logo=accessibility&logoColor=black)
+- ![✅ Angular Best Practices](https://img.shields.io/badge/Pluralsight-Angular%20Best%20Practices-brightgreen?logo=angular&logoColor=white)
+- ![🌍 Internationalization in Angular](https://img.shields.io/badge/Pluralsight-Internationalization%20in%20Angular-007acc?logo=angular&logoColor=white)
+- ![📦 NgRX Fundamentals](https://img.shields.io/badge/Pluralsight-NgRX%20Fundamentals-purple?logo=ngrx&logoColor=white)
+- ![🧠 Angular State Management](https://img.shields.io/badge/Pluralsight-State%20Management%20Playbook-lightgrey?logo=angular&logoColor=white)
+
+---
+
+### **2025**
+
+- ![🧰 Angular Monorepos with Nx](https://img.shields.io/badge/Pluralsight-Angular%20Monorepos%20with%20Nx-darkblue?logo=nx&logoColor=white)
+- ![🔐 Auth in Angular](https://img.shields.io/badge/Pluralsight-Auth%20in%20Angular-darkgreen?logo=angular&logoColor=white)
+- ![⚡ Angular Performance](https://img.shields.io/badge/Pluralsight-Performance%20Playbook-yellowgreen?logo=angular&logoColor=white)
+- ![🏗️ Angular Architecture](https://img.shields.io/badge/Pluralsight-Angular%20Architecture%20Playbook-orange?logo=angular&logoColor=white)
+- ![💻 Angular CLI Playbook](https://img.shields.io/badge/Pluralsight-Angular%20CLI%20Playbook-00599c?logo=angular&logoColor=white)
+- ![📋 Angular Reactive Forms](https://img.shields.io/badge/Pluralsight-Reactive%20Forms-cyan?logo=angular&logoColor=white)
+- ![🌱 Spring Boot Fundamentals](https://img.shields.io/badge/Pluralsight-Spring%20Boot%20Fundamentals-6DB33F?logo=springboot&logoColor=white)
 
 ---
 
